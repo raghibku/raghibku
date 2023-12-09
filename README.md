@@ -18,8 +18,9 @@ I love making elegant responsive websites using libraries and frameworks like Re
 - **Database:** 
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
-#Current Status
+# Current Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghibku&theme=blux&hide_current_streak=true)](https://git.io/streak-stats)
+
 <!--
 **raghibku/raghibku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
