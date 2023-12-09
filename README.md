@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner Image]([https://ibb.co/j4X8NTG](https://i.ibb.co/F7ThrKJ/Rachelle-Beaudry.jpg))
+![Banner Image](https://i.ibb.co/F7ThrKJ/Rachelle-Beaudry.jpg)
 <!--
 **raghibku/raghibku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
