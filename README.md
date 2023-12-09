@@ -1,10 +1,8 @@
-### Hi there 👋
 ![Banner Image](https://i.ibb.co/KGQgthW/Screenshot-4.jpg)
 # About Me
-
 I love making elegant responsive websites using libraries and frameworks like React JS, Tailwind CSS etc. along with HTML, CSS and Vanilla JS . I have also worked with back-end technologies like NodeJS , Express and database with MongoDB. Learning new technologies and implementing them is always delightful to me.
 
-## Tech Stack
+# Tech Stack
 
 - **Front-end:** 
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -20,6 +18,7 @@ I love making elegant responsive websites using libraries and frameworks like Re
 - **Database:** 
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
+#Current Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghibku&theme=blux&hide_current_streak=true)](https://git.io/streak-stats)
 <!--
 **raghibku/raghibku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
